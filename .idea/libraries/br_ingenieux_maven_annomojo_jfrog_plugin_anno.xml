@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="br.ingenieux.maven.annomojo.jfrog.plugin.anno" type="repository">
+    <properties maven-id="br.com.ingenieux.maven.annomojo:org.jfrog.maven.maven-plugin-anno:1.4.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.jfrog.maven.maven-plugin-anno-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
