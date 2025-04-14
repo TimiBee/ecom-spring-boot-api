@@ -28,13 +28,13 @@ Welcome to the **E-Commerce Backend API** project! This API is designed to provi
 
 Ensure you have the following tools installed:
 
-- Java 24 (or higher)
+- Java 24
 - PostgreSQL database
 - Maven
-- IntelliJ IDEA (optional)
+- IntelliJ IDEA 
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/e-commerce-backend-api.git
+git clone https://github.com/TimiBee/ecom-spring-boot-api.git
 cd e-commerce-backend-api
