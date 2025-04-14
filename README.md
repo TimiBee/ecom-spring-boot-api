@@ -37,4 +37,4 @@ Ensure you have the following tools installed:
 
 ```bash
 git clone https://github.com/TimiBee/ecom-spring-boot-api.git
-cd e-commerce-backend-api
+cd ecom-spring-boot-api
